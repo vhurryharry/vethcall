@@ -1,8 +1,8 @@
 {
-  "name": "ethcall",
-  "version": "6.0.3",
-  "description": "ethers.js-compatible wrapper around Multicall",
-  "author": "Timur Badretdinov <destinerx@gmail.com>",
+  "name": "vethcall",
+  "version": "1.0.0",
+  "description": "Custom ethers.js-compatible wrapper around Multicall",
+  "author": "Alexander Bai <vhurryharry@gmail.com>",
   "keywords": [
     "ethers",
     "ethereum"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Destiner/ethcall.git"
+    "url": "git://github.com/vhurryharry/vethcall.git"
   },
   "type": "module",
   "main": "lib/index.js",
